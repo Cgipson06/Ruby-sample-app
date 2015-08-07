@@ -17,7 +17,7 @@ The application includes examples of the following major features of Rails:
 
 
 See this application deployed @ https://frozen-lowlands-4839.herokuapp.com/
-user -cody
+email cody@yahoo.com
 pass -codycody
 
 
