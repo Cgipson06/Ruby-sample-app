@@ -16,3 +16,8 @@ The application includes examples of the following major features of Rails:
 * Security and testing
 
 
+See this application deployed @ https://frozen-lowlands-4839.herokuapp.com/
+user -cody
+pass -codycody
+
+
